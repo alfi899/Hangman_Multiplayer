@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "671698919642",
+      "project_id": "hangman-multiplayer-35b39",
+      "storage_bucket": "hangman-multiplayer-35b39.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:671698919642:android:b1de0df0f90fc7af8d05e3",
+          "android_client_info": {
+            "package_name": "com.appsbyalfi.hangman_multiplayer"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "671698919642-hrjbbtt7e7arhp7i260dp10fh5nuiqpe.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyASgWJPq8rzweQkFbPUN0-RiqKuYvduRcU"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "671698919642-hrjbbtt7e7arhp7i260dp10fh5nuiqpe.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
